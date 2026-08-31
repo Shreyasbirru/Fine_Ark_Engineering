@@ -1,0 +1,744 @@
+   <!-- feature area start -->
+      <section class="rs-feature-area section-space rs-feature-one">
+        <div class="container">
+          <div class="row g-5 process-counts">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div
+                class="rs-feature-item wow fadeInUp"
+                data-wow-delay=".3s"
+                data-wow-duration="1s"
+              >
+                <div class="rs-feature-icon">
+                  <i class="ri-lightbulb-line icon-animation"></i>
+                </div>
+                <h5 class="rs-feature-title">Industrial Ideas</h5>
+                <div class="rs-feature-descrip">
+                  <p>
+                    The printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div
+                class="rs-feature-item wow fadeInUp"
+                data-wow-delay=".5s"
+                data-wow-duration="1s"
+              >
+                <div class="rs-feature-icon">
+                  <i class="ri-lightbulb-line icon-animation"></i>
+                </div>
+                <h5 class="rs-feature-title">Expert Engineers</h5>
+                <div class="rs-feature-descrip">
+                  <p>
+                    The printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div
+                class="rs-feature-item wow fadeInUp"
+                data-wow-delay=".7s"
+                data-wow-duration="1s"
+              >
+                <div class="rs-feature-icon">
+                  <i class="ri-lightbulb-line icon-animation"></i>
+                </div>
+                <h5 class="rs-feature-title">Modern Equipment</h5>
+                <div class="rs-feature-descrip">
+                  <p>
+                    The printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div
+                class="rs-feature-item wow fadeInUp"
+                data-wow-delay=".9s"
+                data-wow-duration="1s"
+              >
+                <div class="rs-feature-icon">
+                  <i class="ri-lightbulb-line icon-animation"></i>
+                </div>
+                <h5 class="rs-feature-title">Project Support</h5>
+                <div class="rs-feature-descrip">
+                  <p>
+                    The printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- feature area end -->
+
+
+
+       <section
+        class="rs-services-area section-space-top rs-services-one primary-bg p-relative"
+      >
+        <div class="rs-services-shape">
+          <img src="assets/images/shape/wave-shape-01.png" alt="image" />
+        </div>
+        <div class="container">
+          <div class="row g-5 section-title-space align-items-center">
+            <div class="col-xl-7 col-lg-7">
+              <div class="rs-section-title-wrapper">
+                <span
+                  class="rs-section-subtitle has-theme-orange justify-content-start"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="11"
+                    height="15"
+                    viewBox="0 0 11 15"
+                    fill="none"
+                  >
+                    <path
+                      d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z"
+                      fill="#EA5501"
+                    ></path>
+                    <path
+                      fill-rule="evenodd"
+                      clip-rule="evenodd"
+                      d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
+                      fill="#EA5501"
+                    ></path>
+                  </svg>
+                  Services
+                </span>
+                <h2 class="rs-section-title rs-split-text-enable split-in-fade">
+                  Advanced solutions for modern AAC manufacturing
+                </h2>
+              </div>
+            </div>
+            <div class="col-xl-5 col-lg-5">
+              <div class="rs-services-btn">
+                <a
+                  class="rs-btn has-bg-transparent has-icon has-bg"
+                  href="services.html"
+                  >View All Solution
+                  <span class="icon-box">
+                    <svg
+                      class="icon-first"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 32 32"
+                    >
+                      <path
+                        d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                      ></path>
+                    </svg>
+                    <svg
+                      class="icon-second"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 32 32"
+                    >
+                      <path
+                        d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                      ></path>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="row g-5">
+            <div class="col-xxl-3 col-xl-4 col-lg-4">
+              <div class="rs-services-tab">
+                <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link active"
+                      id="pills-item-one-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-one"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-one"
+                      aria-selected="true"
+                    >
+                      AAC Plant Manufacturing
+                      <span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path>
+                        </svg>
+                      </span>
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="pills-item-two-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-two"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-two"
+                      aria-selected="false"
+                    >
+                      AAC Plant Consultancy
+                      <span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path></svg
+                      ></span>
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="pills-item-three-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-three"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-three"
+                      aria-selected="false"
+                    >
+                      AAC Machine Installation<span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path>
+                        </svg>
+                      </span>
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="pills-item-four-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-four"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-four"
+                      aria-selected="false"
+                    >
+                      AAC Plant Commissioning<span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path></svg
+                      ></span>
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="pills-item-five-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-five"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-five"
+                      aria-selected="false"
+                    >
+                      Industrial Fabrication<span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path></svg
+                      ></span>
+                    </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button
+                      class="nav-link"
+                      id="pills-item-six-tab"
+                      data-bs-toggle="pill"
+                      data-bs-target="#pills-item-six"
+                      type="button"
+                      role="tab"
+                      aria-controls="pills-item-six"
+                      aria-selected="false"
+                    >
+                      Plant Engineering Services<span class="rs-services-icon"
+                        ><svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="12"
+                          viewBox="0 0 18 12"
+                          fill="none"
+                        >
+                          <path
+                            fill-rule="evenodd"
+                            clip-rule="evenodd"
+                            d="M0 6C0 5.66249 0.273604 5.38889 0.611111 5.38889L15.0246 5.38889L11.179 1.54323C10.9403 1.30458 10.9403 0.917645 11.179 0.678991C11.4176 0.440337 11.8046 0.440337 12.0432 0.678991L16.9321 5.56788C17.1708 5.80653 17.1708 6.19347 16.9321 6.43212L12.0432 11.321C11.8046 11.5597 11.4176 11.5597 11.179 11.321C10.9403 11.0824 10.9403 10.6954 11.179 10.4568L15.0246 6.61111L0.611111 6.61111C0.273604 6.61111 0 6.33751 0 6Z"
+                            fill="white"
+                          ></path></svg
+                      ></span>
+                    </button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xxl-9 col-xl-8 col-lg-8">
+              <div class="rs-services-tab-wrapper">
+                <div
+                  class="tab-content rs-services-tab-anim"
+                  id="pills-tabContent"
+                >
+                  <div
+                    class="tab-pane fade show active"
+                    id="pills-item-one"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-one-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-01.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>AAC Plant Manufacturing</li>
+                                <li>Industrial Fabrication</li>
+                                <li>Plant Installation Services</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="tab-pane fade"
+                    id="pills-item-two"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-two-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-02.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>Plant Installation Services</li>
+                                <li>Industrial Fabrication</li>
+                                <li>AAC Plant Manufacturing</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="tab-pane fade"
+                    id="pills-item-three"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-three-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-03.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>Plant Installation Services</li>
+                                <li>Industrial Fabrication</li>
+                                <li>AAC Plant Manufacturing</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="tab-pane fade"
+                    id="pills-item-four"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-four-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-04.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>Plant Installation Services</li>
+                                <li>Industrial Fabrication</li>
+                                <li>AAC Plant Manufacturing</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="tab-pane fade"
+                    id="pills-item-five"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-five-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-05.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>Plant Installation Services</li>
+                                <li>Industrial Fabrication</li>
+                                <li>AAC Plant Manufacturing</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="tab-pane fade"
+                    id="pills-item-six"
+                    role="tabpanel"
+                    aria-labelledby="pills-item-six-tab"
+                    tabindex="0"
+                  >
+                    <div class="rs-services-tab-content-wrapper p-relative">
+                      <div class="row g-5 align-items-center">
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content-thumb has-clip">
+                            <img
+                              src="assets/images/services/services-thumb-06.png"
+                              alt="image"
+                            />
+                          </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                          <div class="rs-services-tab-content">
+                            <h3 class="rs-services-tab-title">
+                              Reliable AAC Plant Engineering Solutions Worldwide
+                            </h3>
+                            <p>
+                              Fine Ark Engineering delivers high-quality AAC
+                              plant equipment designed for efficient
+                              manufacturing and long-lasting industrial
+                              performance.
+                            </p>
+                            <div class="rs-services-tab-list">
+                              <ul>
+                                <li>Plant Installation Services</li>
+                                <li>Industrial Fabrication</li>
+                                <li>AAC Plant Manufacturing</li>
+                              </ul>
+                            </div>
+                            <div class="rs-services-tab-btn">
+                              <a
+                                class="rs-btn has-text has-icon"
+                                href="services-details.html"
+                                >Read More
+                                <span class="icon-box">
+                                  <svg
+                                    class="icon-first"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                  <svg
+                                    class="icon-second"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 32 32"
+                                  >
+                                    <path
+                                      d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z"
+                                    ></path>
+                                  </svg>
+                                </span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
