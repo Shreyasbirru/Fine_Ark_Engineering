@@ -41,7 +41,7 @@ The website includes dedicated product sections for industrial machinery and equ
 - Industrial Equipment
 - Other engineering products
 
-Each product can have its own detailed information, images, specifications, and related content.
+Each product can have its own images, specifications, and related content.
 
 ---
 
